@@ -104,6 +104,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
 * **System tools**
   * [Aaronepower/tokei](https://github.com/Aaronepower/tokei) — counts the lines of code [<img src="https://img.shields.io/travis/Aaronepower/tokei.svg">](https://travis-ci.org/Aaronepower/tokei)
   * [buster/rrun](https://github.com/buster/rrun) — a command launcher for Linux, similar to gmrun  [<img src="https://travis-ci.org/buster/rrun.svg?branch=master">](https://travis-ci.org/buster/rrun)
+  * [dpc/rdedup](https://github.com/dpc/rdedup) —  data deduplication tool with compression and public key encryption. —   [<img src="https://travis-ci.org/dpc/rdedup.svg?branch=master">](https://travis-ci.org/dpc/rdedup)
   * [ogham/exa](https://github.com/ogham/exa) — a replacement for 'ls' written in Rust [<img src="https://travis-ci.org/ogham/exa.svg?branch=master">](https://travis-ci.org/ogham/exa)
   * [mmstick/systemd-manager](https://github.com/mmstick/systemd-manager) — a systemd service manager written in Rust using GTK-rs.
   * [mmstick/tv-renamer](https://github.com/mmstick/tv-renamer) — a tv series renaming application with an optional GTK3 frontend. [<img src="https://travis-ci.org/mmstick/tv-renamer.svg?branch=master">](https://travis-ci.org/mmstick/tv-renamer)
@@ -124,6 +125,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
 * [rustfmt](https://github.com/rust-lang-nursery/rustfmt) — a Rust code formatter [<img src="https://travis-ci.org/rust-lang-nursery/rustfmt.svg?branch=master">](https://travis-ci.org/rust-lang-nursery/rustfmt)
 * [Rustup](https://github.com/rust-lang-nursery/rustup.rs) — the Rust toolchain installer [<img src="https://travis-ci.org/rust-lang-nursery/rustup.rs.svg?branch=master">](https://travis-ci.org/rust-lang-nursery/rustup.rs)
 * [rst](https://github.com/vitiral/rst) — the requirements tracking tool made for developers [<img src="https://travis-ci.org/vitiral/rst.svg?branch=master">](https://travis-ci.org/vitiral/rst)
+* [slog](https://github.com/dpc/slog-rs) — structured, composable logging for Rust  [<img src="https://travis-ci.org/dpc/slog-rs.svg?branch=master">](https://travis-ci.org/dpc/slog-rs)
 
 ### Build system
 
